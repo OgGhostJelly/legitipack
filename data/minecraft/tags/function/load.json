@@ -1,0 +1,8 @@
+{
+    "values": [
+        "mapimation:load",
+        "example:load",
+        "devtools:load",
+        "walldisplay:load"
+    ]
+}

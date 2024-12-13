@@ -1,0 +1,1 @@
+$give @s minecraft:stick[custom_name='{"text":"\'$(anim)\' animation wand","italic":false,"color":"light_purple"}',custom_data={mapimation_wand:1b,anim:"$(anim)"},minecraft:food={nutrition:0,saturation:0.0,eat_seconds:2147483647,can_always_eat:true}]

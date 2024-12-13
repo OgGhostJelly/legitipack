@@ -1,0 +1,2 @@
+scoreboard objectives remove mapimation_reg_anim_stepped
+scoreboard objectives add mapimation_reg_anim_stepped dummy

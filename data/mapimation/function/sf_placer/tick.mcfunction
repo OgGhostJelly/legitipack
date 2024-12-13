@@ -1,0 +1,2 @@
+execute as @a if score @s mapimation_sf_placer_used matches 1.. if data entity @s SelectedItem.components."minecraft:custom_data"{mapimation_sf_placer:1b} run function mapimation:sf_placer/used
+execute as @a if score @s mapimation_sf_placer_used matches 1.. run scoreboard players reset @s mapimation_sf_placer_used

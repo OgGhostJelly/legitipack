@@ -1,0 +1,1 @@
+$execute align xyz run summon minecraft:text_display ~ ~ ~ {Tags:["WallDisplay"],transformation:$(transformation),alignment:center}

@@ -1,0 +1,4 @@
+scoreboard objectives add devtools_boomystick_raycast_lim dummy
+scoreboard objectives add devtools_zappystick_raycast_lim dummy
+
+tellraw @a "Devtools Loaded"

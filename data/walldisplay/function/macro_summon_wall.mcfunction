@@ -1,0 +1,1 @@
+$summon minecraft:text_display ~ ~ ~ {Tags:["WallDisplay"],transformation:$(transformation)}
