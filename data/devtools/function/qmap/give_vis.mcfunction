@@ -1,0 +1,1 @@
+give @s minecraft:glow_item_frame[item_name='"Visible Quick Map"',entity_data={id:"minecraft:glow_item_frame",Invulnerable:1b,Tags:["QmapLockable"]}] 1 

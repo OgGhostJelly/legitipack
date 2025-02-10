@@ -4,13 +4,11 @@ $data modify storage walldisplay:reg summon_wd.args set value {from:$(from),to:$
 execute store result score .from_x walldisplay_reg run data get storage walldisplay:reg summon_wd.args.from[0]
 execute store result score .from_y walldisplay_reg run data get storage walldisplay:reg summon_wd.args.from[1]
 execute store result score .from_z walldisplay_reg run data get storage walldisplay:reg summon_wd.args.from[2]
-scoreboard players add .from_y walldisplay_reg 1
 
 # Get to
 execute store result score .to_x walldisplay_reg run data get storage walldisplay:reg summon_wd.args.to[0]
 execute store result score .to_y walldisplay_reg run data get storage walldisplay:reg summon_wd.args.to[1]
 execute store result score .to_z walldisplay_reg run data get storage walldisplay:reg summon_wd.args.to[2]
-scoreboard players add .from_x walldisplay_reg 1
 
 # Get position
 execute store result score .position_x walldisplay_reg run data get entity @s Pos[0]
@@ -61,7 +59,7 @@ scoreboard players set .right_rotation_w walldisplay_reg 1
 $function walldisplay:summon_wd_$(face)
 
 # Put
-data modify storage walldisplay:reg summon_wd.out set value {transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[1f,1f,1f]}}
+data modify storage walldisplay:reg summon_wd.out set value {transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[20f,20f,20f]}}
 
 # Put translation
 execute store result storage walldisplay:reg summon_wd.out.transformation.translation[0] float 1 run scoreboard players get .translation_x walldisplay_reg

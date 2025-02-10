@@ -3,6 +3,7 @@
         "mapimation:load",
         "example:load",
         "devtools:load",
-        "walldisplay:load"
+        "walldisplay:load",
+        "dialog:load"
     ]
 }

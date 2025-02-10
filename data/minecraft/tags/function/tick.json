@@ -2,6 +2,7 @@
     "values": [
         "mapimation:tick",
         "example:tick",
-        "devtools:tick"
+        "devtools:tick",
+        "dialog:tick"
     ]
 }
