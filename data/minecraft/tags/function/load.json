@@ -1,7 +1,7 @@
 {
     "values": [
         "mapimation:load",
-        "example:load",
+        "datapack:load",
         "devtools:load",
         "walldisplay:load",
         "dialog:load"

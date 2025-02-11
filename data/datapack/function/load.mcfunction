@@ -1,0 +1,2 @@
+scoreboard objectives remove datapack_reset
+scoreboard objectives add datapack_reset dummy
