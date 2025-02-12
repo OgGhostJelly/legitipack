@@ -4,6 +4,7 @@
         "mapimation:tick",
         "devtools:tick",
         "dialog:tick",
-        "interact:tick"
+        "interact:tick",
+        "spleef:tick"
     ]
 }

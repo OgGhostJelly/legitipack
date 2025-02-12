@@ -1,0 +1,1 @@
+loot give @r[tag=spleef_player] loot spleef:mob

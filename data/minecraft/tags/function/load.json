@@ -5,6 +5,7 @@
         "devtools:load",
         "walldisplay:load",
         "dialog:load",
-        "interact:load"
+        "interact:load",
+        "spleef:load"
     ]
 }
