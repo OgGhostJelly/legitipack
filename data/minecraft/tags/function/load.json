@@ -1,0 +1,14 @@
+{
+	"values": [
+		"code:load",
+		"zoomystick:load",
+		"lightbulb:load",
+		"mewo:load",
+		"notebook:load",
+		"redhand:load",
+		"tissuebox:load",
+		"tv:load",
+		"whitespace:load",
+		"spleef:load"
+	]
+}

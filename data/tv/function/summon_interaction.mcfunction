@@ -1,0 +1,1 @@
+summon minecraft:interaction ~ ~ ~ {response:1b,Tags:["TvInteraction"]}

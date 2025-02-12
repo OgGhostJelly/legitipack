@@ -1,0 +1,1 @@
+give @s minecraft:glow_item_frame[minecraft:entity_data={Fixed:1b,Invisible:1b,Invulnerable:1b,Item:{components:{"minecraft:map_id":93},count:1,id:"minecraft:filled_map"},ItemRotation:1b,Tags:["DoorTopFrame","DoorFrame"],id:"minecraft:glow_item_frame"},minecraft:custom_name='{"text":"Top Door Frame","italic":false}']

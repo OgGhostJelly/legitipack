@@ -1,0 +1,2 @@
+scoreboard objectives add lightbulb dummy
+scoreboard objectives add lightbulbDialog trigger

@@ -1,0 +1,1 @@
+give @s minecraft:glow_item_frame[minecraft:entity_data={Invisible:1b,Invulnerable:1b,Item:{components:{"minecraft:map_id":37},count:1,id:"minecraft:filled_map"},Tags:["TissueboxFrame"],id:"minecraft:glow_item_frame"},minecraft:custom_name='{"text":"Tissuebox Frame","italic":false}']

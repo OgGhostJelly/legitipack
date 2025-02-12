@@ -1,0 +1,1 @@
+give @s minecraft:glow_item_frame[minecraft:entity_data={Invisible:1b,Invulnerable:1b,Item:{components:{"minecraft:map_id":29},count:1,id:"minecraft:filled_map"},Tags:["NotebookFrame"],id:"minecraft:glow_item_frame"},minecraft:custom_name='{"text":"Notebook Frame","italic":false}']

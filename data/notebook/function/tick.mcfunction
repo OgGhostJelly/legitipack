@@ -1,0 +1,2 @@
+execute as @e[tag=NotebookInteraction] on target unless score @s interactionCooldown matches 0.. run function notebook:on_interacted
+execute as @e[tag=NotebookInteraction] run data remove entity @s interaction

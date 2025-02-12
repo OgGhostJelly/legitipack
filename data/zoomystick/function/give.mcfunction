@@ -1,0 +1,1 @@
+give @s minecraft:stick[minecraft:custom_data={zoomystick:true}]

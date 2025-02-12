@@ -1,0 +1,3 @@
+scoreboard players set @s interactionCooldown 10
+execute at @s run playsound minecraft:block.chain.place master @s
+tellraw @s ["",{"text":"A lightbulb hangs from the ceiling, wherever it is. Look into the lightbulb?\n\n"},{"text":"[YES]","clickEvent":{"action":"run_command","value":"/trigger lightbulbDialog set 1"}},{"text":"\n"},{"text":"[NO]","clickEvent":{"action":"run_command","value":"/trigger lightbulbDialog set 2"}}]

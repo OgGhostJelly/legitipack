@@ -1,0 +1,1 @@
+summon minecraft:text_display ~ ~ ~ {Tags:["Whitespace"],background:-2368549,transformation:{translation:[0f,0f,0f],left_rotation:[-0.707f,0f,0f,0.707f],scale:[1500f,1500f,0f],right_rotation:[0f,0f,0f,1f]}}

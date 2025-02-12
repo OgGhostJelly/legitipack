@@ -1,0 +1,2 @@
+execute as @e[tag=TissueboxInteraction] on target unless score @s interactionCooldown matches 0.. run function tissuebox:on_interacted
+execute as @e[tag=TissueboxInteraction] run data remove entity @s interaction

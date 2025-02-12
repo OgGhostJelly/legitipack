@@ -1,0 +1,1 @@
+give @s minecraft:glow_item_frame[minecraft:entity_data={Fixed:1b,Invisible:1b,Invulnerable:1b,Item:{components:{"minecraft:map_id":7},count:1,id:"minecraft:filled_map"},Tags:["WhitespaceFrame"],id:"minecraft:glow_item_frame"},minecraft:custom_name='{"text":"Whitespace Frame","italic":false}']

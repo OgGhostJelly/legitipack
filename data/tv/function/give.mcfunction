@@ -1,0 +1,1 @@
+give @s minecraft:glow_item_frame[minecraft:custom_name='{"text":"Tv Frame","italic":false}',minecraft:entity_data={id:"minecraft:glow_item_frame",Invisible:true,Item:{id:"minecraft:filled_map",Count:1b,components:{"minecraft:map_id":23}},Invulnerable:true,Tags:["TvFrame"]}]
