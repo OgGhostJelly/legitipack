@@ -1,1 +1,0 @@
-give @s minecraft:stick[custom_name='{"text":"hellstick","italic":false}',custom_data={hellstick:1b},minecraft:food={nutrition:0,saturation:0.0,eat_seconds:2147483647,can_always_eat:true}]

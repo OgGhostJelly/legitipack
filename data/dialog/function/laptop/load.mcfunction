@@ -1,5 +1,0 @@
-scoreboard objectives remove has_journal_check
-scoreboard objectives add has_journal_check dummy
-
-scoreboard objectives remove laptop_open
-scoreboard objectives add laptop_open dummy

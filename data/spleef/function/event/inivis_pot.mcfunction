@@ -1,1 +1,0 @@
-give @a[tag=spleef_player,sort=random,limit=1] potion[potion_contents={custom_effects:[{id:invisibility,duration:200,show_particles:0b}]},custom_name='["",{"text":"Dad Potion","italic":false}]',lore=['["",{"text":"Leave and never come back","italic":false,"color":"dark_gray"}]']]

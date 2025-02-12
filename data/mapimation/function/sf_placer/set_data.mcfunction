@@ -1,2 +1,0 @@
-$data modify entity @s Items[{Slot:0b}].components."minecraft:custom_name" set value '{"text":"$(mapimation_sf_num) | \'$(mapimation_anim)\' SF Placer","italic":false,"color":"light_purple"}'
-$data modify entity @s Items[{Slot:0b}].components."minecraft:entity_data".Tags set value ["$(mapimation_anim)_frame_sf$(mapimation_sf_num)","$(mapimation_anim)_sf_placed_frame"]

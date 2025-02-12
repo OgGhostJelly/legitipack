@@ -1,2 +1,0 @@
-scoreboard objectives remove has_notebook_check
-scoreboard objectives add has_notebook_check dummy

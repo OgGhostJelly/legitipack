@@ -1,5 +1,0 @@
-scoreboard objectives remove mapimation_sf_placer_used
-scoreboard objectives add mapimation_sf_placer_used minecraft.used:minecraft.glow_item_frame
-
-scoreboard objectives remove mapimation_sf_placer_sf_num
-scoreboard objectives add mapimation_sf_placer_sf_num dummy

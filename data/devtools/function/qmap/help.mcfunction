@@ -1,3 +1,0 @@
-tellraw @s ["1. Get an invisible item frame using ", {"text":"/function devtools:qmap/give_inv","underlined":true,"clickEvent":{"action":"suggest_command","value":"/function devtools:qmap/give_inv"}}," or a visible item frame using ", {"text":"/function devtools:qmap/give_vis","underlined":true,"clickEvent":{"action":"suggest_command","value":"/function devtools:qmap/give_vis"}}]
-tellraw @s "2. Then place the item frame down and do whatever you want with it"
-tellraw @s ["3. Once you're done, lock it into place using ", {"text":"/function devtools:qmap/lock","underlined":true,"clickEvent":{"action":"suggest_command","value":"/function devtools:qmap/lock"}}]

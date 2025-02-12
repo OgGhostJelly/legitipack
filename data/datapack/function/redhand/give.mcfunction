@@ -1,1 +1,0 @@
-give @s minecraft:silverfish_spawn_egg[minecraft:entity_data={PersistenceRequired:1b,Silent:1b,Tags:["RedhandBody"],active_effects:[{amplifier:2b,duration:-1,id:"minecraft:speed",show_particles:0b},{duration:-1,id:"minecraft:invisibility",show_particles:0b}],id:"minecraft:silverfish"},minecraft:custom_name='{"text":"Redhand","italic":false}']

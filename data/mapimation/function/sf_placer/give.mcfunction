@@ -1,1 +1,0 @@
-$give @s minecraft:glow_item_frame[custom_name='{"text":"$(sf) | \'$(anim)\' SF Placer","italic":false,"color":"light_purple"}',custom_data={mapimation_anim:"$(anim)",mapimation_sf_placer:1b,mapimation_sf_num:$(sf)},entity_data={id:"minecraft:glow_item_frame",Tags:["$(anim)_frame_sf$(sf)","$(anim)_sf_placed_frame"]}]

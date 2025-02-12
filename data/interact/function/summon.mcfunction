@@ -1,1 +1,0 @@
-$summon minecraft:interaction ~ ~ ~ {response:1b,Tags:["$(id)Interaction"]}

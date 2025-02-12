@@ -1,1 +1,0 @@
-$give @s minecraft:glow_item_frame[minecraft:custom_name='{"text":"\'$(anim)\' frame","italic":false,"color":"light_purple"}',minecraft:custom_data={mapimation_frame_item:1b},minecraft:entity_data={id:"minecraft:glow_item_frame",Tags:["$(anim)_frame"]}]
