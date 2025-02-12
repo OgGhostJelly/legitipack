@@ -1,0 +1,1 @@
+give @s minecraft:allay_spawn_egg[minecraft:entity_data={Tags:["RedhandSpawnEgg"],id:"minecraft:allay"},minecraft:custom_name='{"text":"Redhand Spawnpoint","italic":false}']

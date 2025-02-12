@@ -1,0 +1,1 @@
+summon minecraft:silverfish ~ ~ ~ {Tags:["RedhandBody"],Silent:true,PersistenceRequired:true,active_effects:[{id:"minecraft:speed",duration:-1,amplifier:2b,show_particles:0b},{id:"minecraft:invisibility",duration:-1,show_particles:0b}]}

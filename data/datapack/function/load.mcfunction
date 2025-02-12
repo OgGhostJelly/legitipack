@@ -23,5 +23,8 @@ team modify nonametag nametagVisibility hideForOwnTeam
 # Set the world spawn
 setworldspawn 181 90 -735 180
 
+# Load submodules
+function datapack:redhand/load
+
 # To make sure your datapack is working, a load message can be useful.
 tellraw @a "The Code is Load"
