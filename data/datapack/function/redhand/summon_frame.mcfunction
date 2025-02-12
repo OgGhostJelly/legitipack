@@ -1,1 +1,1 @@
-summon minecraft:glow_item_frame ~ ~0.1 ~ {Tags:["RedhandFrame"],Invisible:true,Fixed:true,Facing:1b,Item:{id:"minecraft:filled_map",count:1b,components:{"minecraft:map_id":78}}}
+summon minecraft:glow_item_frame ~ ~0.1 ~ {Tags:["redhand_frame"],Invisible:true,Fixed:true,Facing:1b,Item:{id:"minecraft:filled_map",count:1b,components:{"minecraft:map_id":82}}}
