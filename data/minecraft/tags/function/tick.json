@@ -1,8 +1,9 @@
 {
     "values": [
-        "mapimation:tick",
         "datapack:tick",
+        "mapimation:tick",
         "devtools:tick",
-        "dialog:tick"
+        "dialog:tick",
+        "interact:tick"
     ]
 }

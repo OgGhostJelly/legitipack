@@ -1,9 +1,10 @@
 {
     "values": [
-        "mapimation:load",
         "datapack:load",
+        "mapimation:load",
         "devtools:load",
         "walldisplay:load",
-        "dialog:load"
+        "dialog:load",
+        "interact:load"
     ]
 }

@@ -1,0 +1,2 @@
+scoreboard objectives remove interaction_cooldown
+scoreboard objectives add interaction_cooldown dummy

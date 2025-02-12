@@ -1,2 +1,0 @@
-scoreboard players set @s dialog_check 1
-tellraw @s ["How are you?","\n",{"text": "[I'm doing good]","clickEvent": {"action": "run_command", "value": "/trigger dialog set 2"}},"\n",{"text": "[I'm doing bad]","clickEvent": {"action": "run_command", "value": "/trigger dialog set 3"}}]

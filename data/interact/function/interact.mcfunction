@@ -1,0 +1,2 @@
+$execute as @e[tag=$(id)Interaction] on target unless score @s interaction_cooldown matches 1.. run function interact:on_interact {fn:"$(fn)"}
+$execute as @e[tag=$(id)Interaction] run data remove entity @s interaction
