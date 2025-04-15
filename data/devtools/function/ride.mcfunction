@@ -1,5 +1,5 @@
 # If sel doesn't have an armor stand then create a new one.
-    $execute as $(sel) unless score @s devtools_ride matches -2147483648..2147483647 run function devtools:ride/new
+    $execute as $(sel) unless score @s devtools_ride matches -2147483648..2147483647 run function devtools:ride_inner/new
 
 # Ride the target armor stand
     $scoreboard players operation .target devtools_ride = $(sel) devtools_ride
