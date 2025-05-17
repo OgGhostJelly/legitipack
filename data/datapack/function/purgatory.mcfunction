@@ -1,0 +1,2 @@
+execute positioned 552 115 -669 positioned ~ ~1 ~ align xyz as @e[distance=..3] at @s run tp @s ~ ~6 ~
+execute positioned 552 112 -675 positioned ~ ~13 ~ align xyz as @e[distance=..3] at @s run tp @s ~ ~-6 ~

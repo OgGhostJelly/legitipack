@@ -21,3 +21,6 @@ function mapimation:anim/stepped {anim:laptop,step:2,times:6}
 
 # Tick submodules
 function datapack:redhand/tick
+function datapack:purgatory
+
+execute as @e[tag=FountainWaterParticle] at @s run particle minecraft:falling_water ~ ~ ~ 0.2 0.2 0.2 5 10
