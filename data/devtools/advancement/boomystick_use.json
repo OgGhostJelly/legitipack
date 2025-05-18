@@ -1,27 +1,29 @@
 {
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:using_item",
-        "conditions": {
-          "item": {
-            "components": {
-              "minecraft:food": {
-                "nutrition": 0,
-                "saturation": 0,
-                "can_always_eat": true,
-                "eat_seconds": 2147483647
-              }
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "components": {
+            "minecraft:food": {
+              "saturation": 0,
+              "nutrition": 0,
+              "can_always_eat": true
             },
-            "predicates": {
-              "minecraft:custom_data": {
-                "boomystick": true
-              }
+            "minecraft:consumable": {
+              "consume_seconds": 2147483647
+            }
+          },
+          "predicates": {
+            "minecraft:custom_data": {
+              "boomystick": true
             }
           }
         }
       }
-    },
-    "rewards": {
-      "function": "devtools:boomystick/use"
     }
+  },
+  "rewards": {
+    "function": "devtools:boomystick/use"
   }
+}
